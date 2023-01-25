@@ -492,7 +492,7 @@ section#about_section {
     transition: .4s;
 }
 .owl-carousel.owl-theme.owl-loaded.owl-drag{
- background:linear-gradient(#000000a6, #000000ba), url(/image/blog.jpg);
+ background:linear-gradient(#000000a6, #000000ba), url(image/blog.jpg);
  background-position: center center;
  background-size: cover;
  background-repeat: no-repeat;
