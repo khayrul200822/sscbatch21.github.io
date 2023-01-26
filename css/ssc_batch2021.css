@@ -485,6 +485,7 @@ section#about_section {
 .item {
     box-shadow: -5px 7px 14px 0px #00000073;
     transition: .4s;
+    
 }
 
 .item:hover {
