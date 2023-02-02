@@ -354,6 +354,11 @@ section#hero_section {
   }
  
 }
+@media (max-width: 255px){
+ nav a .img-fluid {
+    max-width: 70%;
+  }
+}
 /* gallary section start here */
 .gallary_item img{
   height: 100%;
