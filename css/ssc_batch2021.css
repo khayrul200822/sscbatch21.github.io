@@ -352,6 +352,9 @@ section#hero_section {
   .slider_heading p{
     font-size: 15px;
   }
+  section#hero_section{
+    height: 50vh;
+  }
 }
 /* gallary section start here */
 .gallary_item img{
