@@ -105,7 +105,9 @@ ul.dropdown-menu li a {
   -webkit-align-items: center;
   align-items: center;
 }
-
+.swiper-slide{
+  display: inherit !important;
+}
 .swiper-slide img {
   display: block;
   width: 100%;
