@@ -8,9 +8,13 @@ h1 {
   font-size: 3.6rem;
 }
 
-section {
+
+section#blog_section,section#gallary_section,section#contact_section,section#footer_section {
   padding: 80px 0;
 }
+
+
+
 
 a {
   text-decoration: none;
